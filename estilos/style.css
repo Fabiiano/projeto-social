@@ -27,10 +27,11 @@ section#pc {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    
     height: 685px;
     width: 850px;
     background: url("../imagens/pc.png") no-repeat;
-    margin: auto;
+    
 }
 
 iframe#tela{
@@ -38,8 +39,7 @@ iframe#tela{
     top: 43px;
     left: 62.5px;
     width: 685.5px;
-    height: 385px;
-    margin: auto;
+    height: 386px;
 }
 
 section#redes{
