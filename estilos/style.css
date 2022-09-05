@@ -18,18 +18,18 @@ body{
 }
 
 main {
-    height: 100vh;
+    height: 80vh;
     position: relative;
 }
 
 section#pc {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 50vh;
+    left: 50vh;
     transform: translate(-50%,-50%);
     height: 685px;
-    width: 850px;
-    background: url("../imagens/pc.png") no-repeat;
+    width: 1000px;
+    background: url("../imagens/pc.png") no-repeat left center;
 }
 
 iframe#tela{
