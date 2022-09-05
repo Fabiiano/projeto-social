@@ -27,19 +27,19 @@ section#pc {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    
-    height: 685px;
-    width: 850px;
+
+    height: 343px;
+    width: 500px;
     background: url("../imagens/pc.png") no-repeat;
     
 }
 
 iframe#tela{
     position: relative;
-    top: 43px;
-    left: 62.5px;
-    width: 685.5px;
-    height: 386px;
+    top: 21px;
+    left: 30.5px;
+    width: 343px;
+    height: 196px;
 }
 
 section#redes{
@@ -47,8 +47,8 @@ section#redes{
 }
 
 section#redes img {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.774);
