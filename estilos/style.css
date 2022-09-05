@@ -24,12 +24,12 @@ main {
 
 section#pc {
     position: absolute;
-    top: 50vh;
-    left: 50vh;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%,-50%);
     height: 685px;
-    width: 1000px;
-    background: url("../imagens/pc.png") no-repeat left center;
+    width: 850px;
+    background: url("../imagens/pc.png") no-repeat;
 }
 
 iframe#tela{
