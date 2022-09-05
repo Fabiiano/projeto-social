@@ -18,7 +18,7 @@ body{
 }
 
 main {
-    height: 80vh;
+    height: 100vh;
     position: relative;
 }
 
@@ -30,6 +30,7 @@ section#pc {
     height: 685px;
     width: 850px;
     background: url("../imagens/pc.png") no-repeat;
+    margin: auto;
 }
 
 iframe#tela{
@@ -38,6 +39,7 @@ iframe#tela{
     left: 62.5px;
     width: 685.5px;
     height: 385px;
+    margin: auto;
 }
 
 section#redes{
